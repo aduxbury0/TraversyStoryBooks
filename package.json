@@ -9,7 +9,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
     "mongoose": "^5.2.3",
     "nodemon": "^1.18.1",
     "npm": "^6.2.0",
